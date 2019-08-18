@@ -1,4 +1,4 @@
-# WDMM1405-Flask
+# Flask
 Multimedia Programming II - WDMM1405 (Python Programming II) - Flask Examples source code
 
 ## Course web page 
